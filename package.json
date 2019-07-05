@@ -1,0 +1,26 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "Portafolio que brinda mi información general",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudithCristina/My-portfolio.git"
+  },
+  "keywords": [
+    "My",
+    "portfolio",
+    "cv",
+    "github",
+    "linkelin"
+  ],
+  "author": "Judith Cristina Quiñones Inga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JudithCristina/My-portfolio/issues"
+  },
+  "homepage": "https://github.com/JudithCristina/My-portfolio#readme"
+}
