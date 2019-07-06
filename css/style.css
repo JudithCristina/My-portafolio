@@ -58,6 +58,7 @@ a:hover {
 .work-box,
 .card-blog {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  margin-top: 0.5rem;
 }
 
 .box-shadow-a,
@@ -934,7 +935,7 @@ h1 {
 }
 
 .testimonial-box .author-test {
-  margin-top: 1rem;
+  margin-top: 3.5rem;
 }
 
 .testimonial-box .author-test img {
@@ -1410,3 +1411,6 @@ footer .credits a {
   -ms-transform: scale(1.5);
   transform: scale(1.5)
 }*/
+a {
+  color: #7e1b18
+}
