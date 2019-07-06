@@ -1010,6 +1010,7 @@ h1 {
 
 .card-blog .card-description {
   color: #4e4e4e;
+  font-size: 14px;
 }
 
 .card-blog .post-author {
@@ -1025,7 +1026,10 @@ h1 {
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
-
+.testimonio{
+  height: 150px;
+  width: 150px;
+}
 .post-box,
 .form-comments,
 .box-comments,
@@ -1236,7 +1240,7 @@ footer .credits a {
 .btn-portafolio{
   text-decoration: none;
   padding: 2px;
-  font-weight: 600;
+  font-weight: 300;
   font-size: 14px;
   color: #ffffff;
   background-color: #5e1616de;
