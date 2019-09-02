@@ -5,13 +5,12 @@ $asunto =$_POST['subject'];
 $mensaje =$_POST['message'];
 
 $destinatario = "judithcristinaqi@gmail.com";
-$asunto="Contacto desde nuestro portafolio"
+$asunto1="Contacto desde nuestro portafolio"
 
 $carta = "De: $nombre \n ";
 $carta .= "Correo: $email \n";
 $carta .= "Asunto: $asunto \n ";
 $carta .= "Mensaje: $mensaje"
 
-mail($destinatario, $asunto, $carta)
-
+mail($destinatario, $asunto1, $carta)
 ?>
