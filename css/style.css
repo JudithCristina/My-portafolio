@@ -248,10 +248,11 @@ a:hover {
 
 
 .contact1:hover {
-  background-color: #c57979;
-  color: rgb(235, 107, 107);
-  box-shadow: 0 0 0 2px #750a0a;
-  transition: all 500ms ease;
+  /* background-color: #c57979;
+  color: rgb(235, 107, 107); */
+  /* box-shadow: 0 0 0 2px #750a0a; */
+  transform: rotate(-30deg);
+  transition: 0.4s all ease-in-out;
 }
 
 /*------/ Ul resect /------*/
